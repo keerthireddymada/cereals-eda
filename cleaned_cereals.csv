@@ -1,0 +1,78 @@
+name,type,calories,protein,fat,sodium,fiber,carbo,sugars,potass,vitamins,shelf,weight,cups,rating,manufacturer
+100% Bran,1,70,4,1,130,10.0,5.0,6,280,25,3,1.0,0.33,68.402973,Nabisco
+100% Natural Bran,1,120,3,5,15,2.0,8.0,8,135,0,3,1.0,1.0,33.983679,Quaker Oats
+All-Bran,1,70,4,1,260,9.0,7.0,5,320,25,3,1.0,0.33,59.425505,Kelloggs
+All-Bran with Extra Fiber,1,50,4,0,140,14.0,8.0,0,330,25,3,1.0,0.5,93.704912,Kelloggs
+Almond Delight,1,110,2,2,200,1.0,14.0,8,-1,25,3,1.0,0.75,34.384843,Ralston Purina
+Apple Cinnamon Cheerios,1,110,2,2,180,1.5,10.5,10,70,25,1,1.0,0.75,29.509541,General Mills
+Apple Jacks,1,110,2,0,125,1.0,11.0,14,30,25,2,1.0,1.0,33.174094,Kelloggs
+Basic 4,1,130,3,2,210,2.0,18.0,8,100,25,3,1.33,0.75,37.038562,General Mills
+Bran Chex,1,90,2,1,200,4.0,15.0,6,125,25,1,1.0,0.67,49.120253,Ralston Purina
+Bran Flakes,1,90,3,0,210,5.0,13.0,5,190,25,3,1.0,0.67,53.313813,Post
+Cap'n'Crunch,1,120,1,2,220,0.0,12.0,12,35,25,2,1.0,0.75,18.042851,Quaker Oats
+Cheerios,1,110,6,2,290,2.0,17.0,1,105,25,1,1.0,1.25,50.764999,General Mills
+Cinnamon Toast Crunch,1,120,1,3,210,0.0,13.0,9,45,25,2,1.0,0.75,19.823573,General Mills
+Clusters,1,110,3,2,140,2.0,13.0,7,105,25,3,1.0,0.5,40.400208,General Mills
+Cocoa Puffs,1,110,1,1,180,0.0,12.0,13,55,25,2,1.0,1.0,22.736446,General Mills
+Corn Chex,1,110,2,0,280,0.0,22.0,3,25,25,1,1.0,1.0,41.445019,Ralston Purina
+Corn Flakes,1,100,2,0,290,1.0,21.0,2,35,25,1,1.0,1.0,45.863324,Kelloggs
+Corn Pops,1,110,1,0,90,1.0,13.0,12,20,25,2,1.0,1.0,35.782791,Kelloggs
+Count Chocula,1,110,1,1,180,0.0,12.0,13,65,25,2,1.0,1.0,22.396513,General Mills
+Cracklin' Oat Bran,1,110,3,3,140,4.0,10.0,7,160,25,3,1.0,0.5,40.448772,Kelloggs
+Cream of Wheat (Quick),0,100,3,0,80,1.0,21.0,0,-1,0,2,1.0,1.0,64.533816,Nabisco
+Crispix,1,110,2,0,220,1.0,21.0,3,30,25,3,1.0,1.0,46.895644,Kelloggs
+Crispy Wheat & Raisins,1,100,2,1,140,2.0,11.0,10,120,25,3,1.0,0.75,36.176196,General Mills
+Double Chex,1,100,2,0,190,1.0,18.0,5,80,25,3,1.0,0.75,44.330856,Ralston Purina
+Froot Loops,1,110,2,1,125,1.0,11.0,13,30,25,2,1.0,1.0,32.207582,Kelloggs
+Frosted Flakes,1,110,1,0,200,1.0,14.0,11,25,25,1,1.0,0.75,31.435973,Kelloggs
+Frosted Mini-Wheats,1,100,3,0,0,3.0,14.0,7,100,25,2,1.0,0.8,58.345141,Kelloggs
+Fruit & Fibre Dates; Walnuts; and Oats,1,120,3,2,160,5.0,12.0,10,200,25,3,1.25,0.67,40.917047,Post
+Fruitful Bran,1,120,3,0,240,5.0,14.0,12,190,25,3,1.33,0.67,41.015492,Kelloggs
+Fruity Pebbles,1,110,1,1,135,0.0,13.0,12,25,25,2,1.0,0.75,28.025765,Post
+Golden Crisp,1,100,2,0,45,0.0,11.0,15,40,25,1,1.0,0.88,35.252444,Post
+Golden Grahams,1,110,1,1,280,0.0,15.0,9,45,25,2,1.0,0.75,23.804043,General Mills
+Grape Nuts Flakes,1,100,3,1,140,3.0,15.0,5,85,25,3,1.0,0.88,52.076897,Post
+Grape-Nuts,1,110,3,0,170,3.0,17.0,3,90,25,3,1.0,0.25,53.371007,Post
+Great Grains Pecan,1,120,3,3,75,3.0,13.0,4,100,25,3,1.0,0.33,45.811716,Post
+Honey Graham Ohs,1,120,1,2,220,1.0,12.0,11,45,25,2,1.0,1.0,21.871292,Quaker Oats
+Honey Nut Cheerios,1,110,3,1,250,1.5,11.5,10,90,25,1,1.0,0.75,31.072217,General Mills
+Honey-comb,1,110,1,0,180,0.0,14.0,11,35,25,1,1.0,1.33,28.742414,Post
+Just Right Crunchy  Nuggets,1,110,2,1,170,1.0,17.0,6,60,100,3,1.0,1.0,36.523683,Kelloggs
+Just Right Fruit & Nut,1,140,3,1,170,2.0,20.0,9,95,100,3,1.3,0.75,36.471512,Kelloggs
+Kix,1,110,2,1,260,0.0,21.0,3,40,25,2,1.0,1.5,39.241114,General Mills
+Life,1,100,4,2,150,2.0,12.0,6,95,25,2,1.0,0.67,45.328074,Quaker Oats
+Lucky Charms,1,110,2,1,180,0.0,12.0,12,55,25,2,1.0,1.0,26.734515,General Mills
+Maypo,0,100,4,1,0,0.0,16.0,3,95,25,2,1.0,1.0,54.850917,American Home Food Products
+Muesli Raisins; Dates; & Almonds,1,150,4,3,95,3.0,16.0,11,170,25,3,1.0,1.0,37.136863,Ralston Purina
+Muesli Raisins; Peaches; & Pecans,1,150,4,3,150,3.0,16.0,11,170,25,3,1.0,1.0,34.139765,Ralston Purina
+Mueslix Crispy Blend,1,160,3,2,150,3.0,17.0,13,160,25,3,1.5,0.67,30.313351,Kelloggs
+Multi-Grain Cheerios,1,100,2,1,220,2.0,15.0,6,90,25,1,1.0,1.0,40.105965,General Mills
+Nut&Honey Crunch,1,120,2,1,190,0.0,15.0,9,40,25,2,1.0,0.67,29.924285,Kelloggs
+Nutri-Grain Almond-Raisin,1,140,3,2,220,3.0,21.0,7,130,25,3,1.33,0.67,40.69232,Kelloggs
+Nutri-grain Wheat,1,90,3,0,170,3.0,18.0,2,90,25,3,1.0,1.0,59.642837,Kelloggs
+Oatmeal Raisin Crisp,1,130,3,2,170,1.5,13.5,10,120,25,3,1.25,0.5,30.450843,General Mills
+Post Nat. Raisin Bran,1,120,3,1,200,6.0,11.0,14,260,25,3,1.33,0.67,37.840594,Post
+Product 19,1,100,3,0,320,1.0,20.0,3,45,100,3,1.0,1.0,41.50354,Kelloggs
+Puffed Rice,1,50,1,0,0,0.0,13.0,0,15,0,3,0.5,1.0,60.756112,Quaker Oats
+Puffed Wheat,1,50,2,0,0,1.0,10.0,0,50,0,3,0.5,1.0,63.005645,Quaker Oats
+Quaker Oat Squares,1,100,4,1,135,2.0,14.0,6,110,25,3,1.0,0.5,49.511874,Quaker Oats
+Quaker Oatmeal,0,100,5,2,0,2.7,-1.0,-1,110,0,1,1.0,0.67,50.828392,Quaker Oats
+Raisin Bran,1,120,3,1,210,5.0,14.0,12,240,25,2,1.33,0.75,39.259197,Kelloggs
+Raisin Nut Bran,1,100,3,2,140,2.5,10.5,8,140,25,3,1.0,0.5,39.7034,General Mills
+Raisin Squares,1,90,2,0,0,2.0,15.0,6,110,25,3,1.0,0.5,55.333142,Kelloggs
+Rice Chex,1,110,1,0,240,0.0,23.0,2,30,25,1,1.0,1.13,41.998933,Ralston Purina
+Rice Krispies,1,110,2,0,290,0.0,22.0,3,35,25,1,1.0,1.0,40.560159,Kelloggs
+Shredded Wheat,1,80,2,0,0,3.0,16.0,0,95,0,1,0.83,1.0,68.235885,Nabisco
+Shredded Wheat 'n'Bran,1,90,3,0,0,4.0,19.0,0,140,0,1,1.0,0.67,74.472949,Nabisco
+Shredded Wheat spoon size,1,90,3,0,0,3.0,20.0,0,120,0,1,1.0,0.67,72.801787,Nabisco
+Smacks,1,110,2,1,70,1.0,9.0,15,40,25,2,1.0,0.75,31.230054,Kelloggs
+Special K,1,110,6,0,230,1.0,16.0,3,55,25,1,1.0,1.0,53.131324,Kelloggs
+Strawberry Fruit Wheats,1,90,2,0,15,3.0,15.0,5,90,25,2,1.0,1.0,59.363993,Nabisco
+Total Corn Flakes,1,110,2,1,200,0.0,21.0,3,35,100,3,1.0,1.0,38.839746,General Mills
+Total Raisin Bran,1,140,3,1,190,4.0,15.0,14,230,100,3,1.5,1.0,28.592785,General Mills
+Total Whole Grain,1,100,3,1,200,3.0,16.0,3,110,100,3,1.0,1.0,46.658844,General Mills
+Triples,1,110,2,1,250,0.0,21.0,3,60,25,3,1.0,0.75,39.106174,General Mills
+Trix,1,110,1,1,140,0.0,13.0,12,25,25,2,1.0,1.0,27.753301,General Mills
+Wheat Chex,1,100,3,1,230,3.0,17.0,3,115,25,1,1.0,0.67,49.787445,Ralston Purina
+Wheaties,1,100,3,1,200,3.0,17.0,3,110,25,1,1.0,1.0,51.592193,General Mills
+Wheaties Honey Gold,1,110,2,1,200,1.0,16.0,8,60,25,1,1.0,0.75,36.187559,General Mills
