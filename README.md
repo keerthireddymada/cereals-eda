@@ -34,10 +34,6 @@ This project performs exploratory data analysis on the **Cereal Dataset** from [
 ### ✅ 5. Top & Bottom Cereals
 - Displayed top 5 and bottom 5 cereals based on rating
 
-### ✅ 6. Outlier Checks (Optional)
-- Filtered cereals with high sugar (`>15g`)
-- Identified cereals with zero fiber
-
 ---
 
 ## 📁 Output
